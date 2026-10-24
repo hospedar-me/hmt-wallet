@@ -9,7 +9,7 @@ const css = await postcss([tailwindcss()]).process(
 );
 await fs.writeFile(
   "src/styles.generated.ts",
-  "export const walletStyles=" + JSON.stringify(css.css) + ";\n",
+  "export const walletStyles: string =" + JSON.stringify(css.css) + ";\n",
 );
 await fs.rm("dist", { recursive: true, force: true });
 execFileSync("node", ["node_modules/typescript/bin/tsc"], { stdio: "inherit" });
