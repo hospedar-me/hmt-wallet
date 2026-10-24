@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+*.tgz
+*.tsbuildinfo
+.env*
+
+src/styles.generated.ts
+
+api-spec/
+api-docs/

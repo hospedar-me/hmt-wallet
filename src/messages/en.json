@@ -1,0 +1,166 @@
+{
+  "HmtDrawer": {
+    "hMTWallet": "HMT Wallet",
+    "carteiraDeTestesDaHospedarMe": "Hospedar.me test wallet",
+    "fecharHMTWallet": "Close HMT Wallet",
+    "carregandoCarteira": "Loading wallet...",
+    "conecteSuaHMTWallet": "Connect your HMT Wallet",
+    "entreComSuaContaHospedarMeParaContinuar": "Sign in with your Hospedar.me account to continue.",
+    "entrarNoHMT": "Sign in to HMT",
+    "crieSuaContaHMT": "Create your HMT account",
+    "suaAutenticacaoHMTEstaAtivaMasAindaNaoExisteUmaContaPAYERVinculada": "Your HMT authentication is active, but no PAYER account is linked yet.",
+    "criarContaHMT": "Create HMT account",
+    "sairDoHMT": "Sign out of HMT",
+    "naoFoiPossivelCarregarAHMTWallet": "Could not load HMT Wallet",
+    "tentarNovamente": "Try again",
+    "naoFoiPossivelConcluirAAutenticacaoHMT": "Could not complete HMT authentication.",
+    "oNavegadorBloqueouAJanelaDeAutenticacaoPermitaPopupsETenteNovamente": "Your browser blocked the sign-in window. Allow pop-ups and try again.",
+    "aJanelaDeAutenticacaoFoiFechadaAntesDaConclusao": "The sign-in window was closed before authentication completed."
+  },
+  "HmtFloatingLauncher": {
+    "abrirHMTWallet": "Open HMT Wallet"
+  },
+  "HmtBalanceView": {
+    "back": "Back",
+    "carteira": "Wallet",
+    "balance": "Balance",
+    "carregandoSaldo": "Loading balance...",
+    "disponivel": "Available",
+    "pending": "Pending",
+    "recarregarSaldo": "Reload balance",
+    "amount": "Amount",
+    "r": "R$",
+    "adicionar": "Add",
+    "retirar": "Withdraw",
+    "confirmarRetirada": "Confirm withdrawal",
+    "aOperacaoSeraEnviadaAoHMTEAlteraraOSaldoDisponivelDaSuaContaDeTestes": "The operation will be sent to HMT and change the available balance of your test account.",
+    "cancel": "Cancel",
+    "informeUmValorMaiorQueZero": "Enter an amount greater than zero.",
+    "saldoAdicionadoComSucesso": "Balance added successfully.",
+    "retiradaConcluidaComSucesso": "Withdrawal completed successfully."
+  },
+  "HmtCardsView": {
+    "back": "Back",
+    "carteira": "Wallet",
+    "cartoes": "Cards",
+    "novo": "New",
+    "exibicaoUnica": "One-time display",
+    "cartaoCriado": "Card created",
+    "ocultarDadosDoCartao": "Hide card details",
+    "validUntil": "Valid until",
+    "cVC": "CVC",
+    "oNumeroEOCVCDesteCartaoDeTestePoderaoSerConsultadosNovamentePelaWalletPeloProprioPAYERAutentica": "The authenticated PAYER can view this test card number and CVC again in the wallet.",
+    "detalhesDoCartao": "Card details",
+    "fecharDetalhesDoCartao": "Close card details",
+    "numeroCompletoIndisponivelParaEsteCartaoLegado": "The full number is unavailable for this legacy card.",
+    "modalidade": "Card type",
+    "criarCartaoDeTeste": "Create test card",
+    "selecioneABandeiraEAModalidadeAceitasPeloProvedorDeTestes": "Select the network and card type accepted by the test provider.",
+    "bandeira": "Network",
+    "criarCartao": "Create card",
+    "cancel": "Cancel",
+    "carregandoCartoes": "Loading cards...",
+    "nenhumCartaoDeTesteCriado": "No test cards created.",
+    "bloquear": "Block",
+    "reativar": "Reactivate",
+    "cancelarCartao": "Cancel card",
+    "cancelarEsteCartao": "Cancel this card?",
+    "oCancelamentoAlteraOLifecycleParaCanceledEETratadoComoUmaAcaoDestrutivaNestaWallet": "Cancelling permanently changes the card status to cancelled in this wallet.",
+    "confirmCancellation": "Confirm cancellation",
+    "atualizarCartoes": "Refresh cards",
+    "naoFoiPossivelCopiarONumeroDoCartao": "Could not copy the card number.",
+    "copiarNumero": "Copy number",
+    "verCartaoValue0FinalValue1": "View {value0} card ending in {value1}"
+  },
+  "HmtPixView": {
+    "back": "Back",
+    "carteira": "Wallet",
+    "pIX": "PIX",
+    "status": "Status: ",
+    "voltarParaACarteira": "Back to wallet",
+    "pagarPIX": "Pay with PIX",
+    "pIXCopiaECola": "PIX payment code",
+    "coleOCodigoPIXDaCobrancaOPagamentoSeraFeitoComOSaldoDisponivelDestaHMTWallet": "Paste the PIX payment code. The payment will use this HMT Wallet available balance.",
+    "codigoPIX": "PIX code",
+    "confirmarPagamentoPIX": "Confirm PIX payment?",
+    "oValorDefinidoPelaCobrancaSeraDebitadoDoSaldoDisponivelDaSuaHMTWallet": "The amount specified in the charge will be debited from your available HMT Wallet balance.",
+    "confirmarPagamento": "Confirm payment",
+    "cancel": "Cancel",
+    "pagamentoPIXConfirmado": "PIX payment confirmed",
+    "pagamentoPIXProcessado": "PIX payment processed"
+  },
+  "HmtTransactionsView": {
+    "back": "Back",
+    "carteira": "Wallet",
+    "movimentacoes": "Transactions",
+    "carregandoMovimentacoes": "Loading transactions...",
+    "tentarNovamente": "Try again",
+    "nenhumaMovimentacaoRegistrada": "No transactions recorded.",
+    "saida": "Outgoing"
+  },
+  "HmtWalletHomeView": {
+    "carregandoCarteira": "Loading wallet...",
+    "naoFoiPossivelCarregarSuaCarteira": "Could not load your wallet.",
+    "tentarNovamente": "Try again",
+    "saldoDisponivel": "Available balance",
+    "pending": "Pending",
+    "adicionar": "Add",
+    "retirar": "Withdraw",
+    "cartoes": "Cards",
+    "pagarComPIX": "Pay with PIX",
+    "pIX": "PIX",
+    "atividade": "Activity",
+    "movimentacoesRecentes": "Recent transactions",
+    "verTodas": "View all",
+    "nenhumaMovimentacaoRegistrada": "No transactions recorded.",
+    "saida": "Outgoing"
+  },
+  "HmtWalletClient": {},
+  "lifecycleLabel": {
+    "active": "Active",
+    "blocked": "Blocked",
+    "canceled": "Cancelled"
+  },
+  "brandLabel": {
+    "visa": "Visa",
+    "mastercard": "Mastercard"
+  },
+  "fundingLabel": {
+    "credit": "Credit",
+    "debit": "Debit"
+  },
+  "walletDays": {
+    "other": "Other",
+    "today": "Today",
+    "yesterday": "Yesterday"
+  },
+  "walletCopy": {
+    "copied": "Copied",
+    "incoming": "Incoming",
+    "map": "Map"
+  },
+  "walletBalanceBuckets": {
+    "available": "Available",
+    "pending": "Pending"
+  },
+  "walletPaymentStatuses": {
+    "approved": "Approved",
+    "pending": "Pending",
+    "processing": "Processing",
+    "created": "Created",
+    "rejected": "Declined",
+    "failed": "Failed",
+    "canceled": "Cancelled",
+    "cancelled": "Cancelled",
+    "expired": "Expired",
+    "refunded": "Refunded"
+  },
+  "page": {
+    "hMTWalletConectada": "HMT Wallet connected",
+    "autenticacaoNaoConcluida": "Authentication incomplete",
+    "aSessaoHMTFoiCriadaVocePodeVoltarParaAJanelaPrincipal": "Your HMT session has been created. You can return to the main window.",
+    "naoFoiPossivelCriarASessaoHMTVocePodeFecharEstaJanelaETentarNovamente": "Could not create the HMT session. You can close this window and try again.",
+    "fecharJanela": "Close window",
+    "voltarParaOBookingEngine": "Return to the booking engine"
+  }
+}
